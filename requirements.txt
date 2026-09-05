@@ -1,0 +1,13 @@
+# TriggerLocate
+# 标准库 json / os / re / collections / datetime 不需要写在这里
+# LLM 本体由本机 Ollama 提供，不通过 pip 安装
+
+requests
+tqdm
+nltk
+
+langchain
+langchain-core
+langchain-community
+chromadb
+sentence-transformers
